@@ -63,7 +63,7 @@ const Banner = () => {
                     </div>
                     <div className=" flex flex-col gap-4 items-center bg-third absolute p-5 rounded-3xl bottom-6 -right-4">
                         <img
-                            src={IconsAll.autoScale}
+                            src={IconsAll.autoScalePurple}
                             alt="Auto Scale icon"
                             className="w-[46px] h-[46px]"
                         />
