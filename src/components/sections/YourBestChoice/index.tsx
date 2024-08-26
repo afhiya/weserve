@@ -58,7 +58,7 @@ export const YourBestChoice = () => {
                             <button className="z-10 text-lg font-semibold transition-colors text-secondary font-Poppins group-hover:text-third/95 duration-400 transition-global">
                                 Learn More
                             </button>
-                            <div className="w-16 h-40 bg-third rotate-[40deg] absolute top-[300px] right-72    group-hover:top-8 group-hover:right-16 rounded-full blur-2xl transition-all duration-1000 transition-global"></div>
+                            <div className="w-16 h-40 bg-third opacity-60 rotate-[40deg] absolute top-[300px] right-72    group-hover:top-8 group-hover:right-16 rounded-full blur-2xl transition-all duration-1000 transition-global"></div>
                         </div>
                     );
                 })}
